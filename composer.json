@@ -1,0 +1,28 @@
+{
+  "name": "lintrue/layui",
+  "type": "lintrue-static",
+  "license": "MIT",
+  "description": "deploy sentsin/layui for thinkphp",
+  "keywords":[
+    "css",
+    "js",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "authors": [
+    {
+      "name": "lintrue",
+      "email": "jiamisslin@gmail.com"
+    }
+  ],
+  "require": {
+    "lintrue/static-installer": "^v1.0"
+  },
+  "extra":{
+    "static-path":"public/static/layui"
+  }
+}
