@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "lintrue/static-installer": "^v1.0"
+    "lintrue/static-installer": "dev-master"
   },
   "extra":{
     "static-path":"public/static/layui"
